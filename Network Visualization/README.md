@@ -1,4 +1,4 @@
-# Text-Modelling
+# Document Overview
 The Network Visualization file looks at the simple implementation of highlighting and the visualization of networking in a text file as well as files in a folder.
 Using the example of inaugural speeches of US presidents, we visualize the connection between different the presidents and different NER-tagging entities. First we look at the connection between presidents, then we look relationship between presidents and Geopolitical entities.
 
